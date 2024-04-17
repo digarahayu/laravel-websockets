@@ -35,12 +35,12 @@
         "clue/redis-react": "^2.6",
         "facade/ignition-contracts": "^1.0",
         "react/mysql": "^0.5",
-        "react/promise": "^2.8",
+        "react/promise": "^2.8"
     },
     "require-dev": {
         "clue/buzz-react": "^2.9",
         "laravel/legacy-factories": "^1.1",
-        "orchestra/testbench-browser-kit": "^7.0",
+        "orchestra/testbench-browser-kit": "^7.0"
     },
     "suggest": {
         "ext-pcntl": "Running the server needs pcntl to listen to command signals and soft-shutdown.",
